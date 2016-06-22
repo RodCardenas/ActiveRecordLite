@@ -1,5 +1,5 @@
 # ActiveRecordLite
-ActiveRecordLite is a personal project in which I built a stripped down version of ActiveRecord. The goal was to better grasp how ActiveRecord translates associations and queries into SQL.
+ActiveRecordLite is a personal project in which I built a basic version of ActiveRecord. The goal was to better grasp how ActiveRecord translates associations and queries into SQL.
 
 Try it out:
 -----
@@ -8,7 +8,7 @@ Try it out:
 3. ``$ ruby demo.rb``
 4. Open ``demo.rb`` and break all the things
 
-[![Screenshot](/doc/screenshot.png)](//github.com/rodcardenas/code/)
+![Screenshot](./img/code.png)
 
 
 Application:
