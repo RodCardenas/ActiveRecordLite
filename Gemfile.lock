@@ -17,6 +17,7 @@ GEM
     i18n (0.6.9)
     minitest (4.7.5)
     multi_json (1.10.1)
+    rake (11.1.2)
     rspec (3.1.0)
       rspec-core (~> 3.1.0)
       rspec-expectations (~> 3.1.0)
@@ -40,8 +41,12 @@ PLATFORMS
 DEPENDENCIES
   activesupport
   byebug
+  rake
   rspec (~> 3.1.0)
   sqlite3
 
+RUBY VERSION
+   ruby 2.2.4p230
+
 BUNDLED WITH
-   1.11.2
+   1.12.5

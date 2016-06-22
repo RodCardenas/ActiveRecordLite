@@ -1,13 +1,6 @@
 # ActiveRecordLite
 ActiveRecordLite is a personal project in which I built a basic version of ActiveRecord. The goal was to better grasp how ActiveRecord translates associations and queries into SQL.
 
-Try it out:
------
-1. Clone me
-2. Run ``rake db:create``
-3. ``$ ruby demo.rb``
-4. Open ``demo.rb`` and break all the things
-
 ![Screenshot](./img/code.png)
 
 
